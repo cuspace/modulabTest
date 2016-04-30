@@ -1,0 +1,3 @@
+rootProject.name = 'modulabTest'
+
+include ':app'
