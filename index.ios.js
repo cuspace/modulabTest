@@ -17,7 +17,7 @@ class modulabTest extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          모두의 연구소
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
@@ -39,7 +39,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
   welcome: {
-    fontSize: 20,
+    color: 'deeppink',
+    fontSize: 30,
     textAlign: 'center',
     margin: 10,
   },
